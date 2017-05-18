@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	_ "dao-service/resource-dao-service/routers"
+	_ "dao-service/user-dao-service/routers"
 	"github.com/astaxie/beego/orm"
 	"model"
 )
